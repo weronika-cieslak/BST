@@ -1,10 +1,3 @@
-﻿
-
-/*ALGO2 IS1 222A LAB03
-  Weronika Cieślak
-  cw46490@zut.edu.pl
-*/
-
 #include <iostream>
 #include <time.h>
 struct stored_data
